@@ -12,6 +12,7 @@ Verison History:
 body
 {
     background-image: url(./HNY-------26.jpg);
+    background-repeat: repeat-x;
     background-size: 100%;
     font-family: arial;
 }
